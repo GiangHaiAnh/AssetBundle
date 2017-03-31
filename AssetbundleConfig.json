@@ -1,0 +1,9 @@
+{
+	"ListAssetBundle": [{
+		
+		"NameFile": "bgm",
+		"Version": 0,
+		"UrlAndroid": "ANDROID/bgm",
+		"UrlIos": "IOS/bgm"
+	}]
+}
