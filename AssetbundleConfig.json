@@ -1,11 +1,11 @@
 {
-"version":1,
+"version”:1,
 "ListAssetBundle":[{
 "fileName":"bgm",
 "version":1,
 "urlAndroid":"ANDROID/bgm",
-"sizeAndroid":7678914,
+"sizeAndroid":7689050,
 "urlIOS":"IOS/bgm",
-"sizeIOS":7678914
+"sizeIOS":7689050
     }]
 }
