@@ -1,10 +1,9 @@
 {
-	"rootUrl":"",
-	"ListAssetBundle": [{
-		
-		"NameFile": "bgm",
-		"Version": 0,
-		"UrlAndroid": "ANDROID/bgm",
-		"UrlIos": "IOS/bgm"
-	}]
+"version":1,
+"ListAssetBundle":[{
+	"fileName":"bgm",
+	"version":1,
+	"urlAndroid":"ANDROID/bgm",
+	"urliOS":"IOS/bgm"
+}]
 }
