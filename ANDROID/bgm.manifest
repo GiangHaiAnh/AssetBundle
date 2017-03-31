@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 3774584414
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6cb662f80bf1bac4acec74dcf282488f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/AssetBundleFile/BGM/Bg_Music_InGame_3.mp3
+- Assets/AssetBundleFile/BGM/Bg_Music_InGame_5.mp3
+- Assets/AssetBundleFile/BGM/Bg_Music_InGame_4.mp3
+Dependencies: []

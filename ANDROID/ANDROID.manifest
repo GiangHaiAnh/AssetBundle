@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+CRC: 590966525
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: bgm
+      Dependencies: {}
+    Info_1:
+      Name: map2_road
+      Dependencies: {}
