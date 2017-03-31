@@ -1,1 +1,11 @@
-{"version":1,"ListAssetBundle":[{"fileName":"bgm","version":1,"urlAndroid":"ANDROID/bgm","urliOS":"IOS/bgm"}]}
+{
+"version":1,
+"ListAssetBundle":[{
+"fileName":"bgm",
+"version":1,
+"urlAndroid":"ANDROID/bgm",
+"sizeAndroid":7678914,
+"urlIOS":"IOS/bgm",
+"sizeIOS":7678914
+    }]
+}
