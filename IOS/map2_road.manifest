@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 3665585135
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 231664810d0fe8d4acbcadb8014bf1a8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Textures/Background/road_RuinedCity.png
+- Assets/Textures/Background/road_halloween.png
+- Assets/Textures/Background/Road_train.png
+- Assets/Textures/Background/road_noel.png
+Dependencies: []
