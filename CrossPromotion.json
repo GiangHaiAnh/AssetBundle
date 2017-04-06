@@ -1,0 +1,29 @@
+{
+	"lstCrossPromotion": [
+	{
+		"TitleGame": "Rush Hour Traffic 3D",
+		"Version": 0,
+		"LinkImage": "http://i.imgur.com/3qQ9YXS.png",
+		"LinkDownloadAndroid": "market://details?id=com.asiantech.dev.rushhourcity3d",
+		"LinkDownloadIos": "https://itunes.apple.com/us/app/rush-hour-city-3d/id1211152814"
+	},{
+		"TitleGame": "Riot Road Fight",
+		"Version": 1,
+		"LinkImage": "http://i.imgur.com/99ocrdq.png",
+		"LinkDownloadAndroid": "market://details?id=com.asiantech.dev.riotroadfightfull",
+		"LinkDownloadIos": "https://itunes.apple.com/us/app/riot-road-fight/id1062198303"
+
+	}, {
+		"TitleGame": "Hill Road Trip",
+		"Version": 0,
+		"LinkImage": "http://i.imgur.com/szRLX88.png",
+		"LinkDownloadAndroid": "market://details?id=com.asiantech.dev.hillroadtrip",
+		"LinkDownloadIos": "https://itunes.apple.com/us/app/hill-road-trip/id1115567513"
+	}, {
+		"TitleGame": "Pet Circle Jump",
+		"Version": 0,
+		"LinkImage": "http://i.imgur.com/lP7XMhi.png",
+		"LinkDownloadAndroid": "market://details?id=com.asiantech.dev.petcirclejump",
+		"LinkDownloadIos": "https://itunes.apple.com/us/app/pet-circle-jump/id1077154156"
+	}]
+}
