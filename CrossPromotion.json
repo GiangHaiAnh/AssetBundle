@@ -1,6 +1,18 @@
 {
 	"lstCrossPromotion": [
 	{
+		"TitleGame": "Super Soccer Head",
+		"Version": 0,
+		"LinkImage": "https://i.imgur.com/4xhjWfH.png",
+		"LinkDownloadAndroid": "market://details?id=com.plugnplay.superstarheadsoccer",
+		"LinkDownloadIos": "https://itunes.apple.com/us/app/super-star-head-soccer/id1270544244"
+	}, {
+		"TitleGame": "Simply BasketBall",
+		"Version": 0,
+		"LinkImage": "https://i.imgur.com/wV1D4JP.jpg",
+		"LinkDownloadAndroid": "market://details?id=com.plugnplay.simplybasketball",
+		"LinkDownloadIos": "https://itunes.apple.com/us/app/simply-basketball/id1284200856"
+	}, {
 		"TitleGame": "Riot Road Fight",
 		"Version": 1,
 		"LinkImage": "http://i.imgur.com/99ocrdq.png",
